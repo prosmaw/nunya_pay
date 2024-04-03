@@ -1,5 +1,14 @@
 # nunya_pay_app
 
+A 2023 project from the Hackaton organized by NunyaLab
+
+This is a mobile application for a mobile money system without a backend
+
+<img src="https://github.com/prosmaw/nunya_pay/blob/main/assets/images/Screenshot_20240402-194524.png" width="350" height="790"> <img src="https://github.com/prosmaw/nunya_pay/blob/main/assets/images/Screenshot_20240402-194541.png" width="350" height="790">
+
+
+<img src="https://github.com/prosmaw/nunya_pay/blob/main/assets/images/Screenshot_20240402-194549.png" width="350" height="790">  <img src="https://github.com/prosmaw/nunya_pay/blob/main/assets/images/Screenshot_20240402-194557.png" width="350" height="790">
+
 A new Flutter project.
 
 ## Getting Started
